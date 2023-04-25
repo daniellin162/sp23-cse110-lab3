@@ -1,0 +1,53 @@
+/*comment*/
+* {
+    display: inline-block;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    background: fixed;
+    background-color: aquamarine;
+    padding: 1px;
+    margin-top: 1pt;
+    margin-left: 1pc;
+    display: none;
+}
+
+h2 {
+    color: rgb(red, green, blue);
+    background-position: right 40vmin;
+    display: block;
+}
+
+h3 {
+    color: #102876;
+    height: 300em;
+    width: 400rem;
+    background-color:hsl(0, 0%, 50%);
+    display: inline;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.first {
+    display: flex;
+    border-style: dashed;
+    border-color: #102876;
+    border-width: 1px;
+    border-radius: 5em;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+#second {
+    display: grid;
+    border: 1px solid #102876;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: auto;
+}
